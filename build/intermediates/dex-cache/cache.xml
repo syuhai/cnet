@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_583cbaa96f6dbf5f5d1387c9a2eaffa34f6f620f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_254622608aa3d85fb7f0b3ce84656d017d730f78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\CNet\cnet\unspecified\jars\libs\httpclient-4.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cdd3d063a7e8dcdab21f0c4f24a0283309acd21b">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpclient-4.3.5_81a7d1868dc7f4c5320532e5ea25671ef6edb0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songyuhai\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.4.0_ff14b9d582ed7c74c56764ee890a4b15587d54cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_b13a8a4ee25dc9c8de9214f7c0f2d59647ac55ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jakewharton-butterknife-8.4.0_c7804945f62253d66cb17ce612f0947409d1f3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4a2a7d47fdec08de5d75f1e22cbc97f560cff27">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4a5551cda87d087eaeda8ea0edcbb1758640753a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_0e541e05e97bb41a995fe97c0ca59088b33ec3a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\CNet\cnet\unspecified\jars\libs\httpcore-4.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dee8c88a166e600dc38afdb32c5315bff87e9c24">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpcore-4.3.2_2c18d14c7064a70c7ce904e561b74324a9f8bbd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\CNet\cnet\unspecified\jars\libs\httpmime-4.3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9f5e8616d179c833c5986f4bb9b4caa98cd4d41">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\8\httpmime-4.3.5_73ad23d70651538db8734f5fa7e2003aa616b83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_80d0fdec850e108923f2a8bc90a9cc406ca51deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_a137e77f59a93430afcd0e1842f0c954310fa510\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c6cdade090070a92e6bbf2c6afb404fb7f8bd0f2">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3518a24bb26e85610921328ce1659b2fb61a8d1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_580ac39724104f409ee9c85b26789981d4e90022\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_638c37cdcde78c3b48670ce974d0b17707978d1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_52aa4282ab205de32fb471df17dfec80766beb50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_2225e893b1a74f9e389b517ba0b1f03d4c87c0b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songyuhai\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_3c64292641314e70e25950adbc9d540f0a55fcb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\temp\CNet\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="E:\temp\CNet\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_f1877655489a9453471e5e5fbd9dc1468fc873f9\classes.dex" />
+    </item>
+
+</items>
